@@ -1,0 +1,26 @@
+
+
+Approach Tree - 
+
+[Fool]
+ +1 die when you try to outwit, manipulate, or decieve someone.
+ success: npc gains anger when they discover the deception
+ conseqence:
+	[Betray]
+	 +1 die when taking advantage of someone who trusts you
+	 success: if the npc finds out you betrayed them, +1 BACKLASH
+
+
+[Force]
+ +1 die when you try to bend someone until they break.
+ success: npc gains fear
+ consequence: npc is boosted on next violent move against you (?)
+	[Threaten]
+	 +1 die when you make a threat.
+	success: npc gains an additional fear
+	
+	 
+[Fraternize]
+ +1 die when you try to build someone up, understand them, or connect with them.
+ success: npc gains joy
+ consequence: none

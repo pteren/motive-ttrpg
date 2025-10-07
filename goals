@@ -1,0 +1,102 @@
+every npc has at least two goals
+
+goals are ranked in a hierarchy. npcs will prioritize the goals highest on the hierarchy, and act accordingly.
+
+priority represents which goal is at the front of an npc's mind. NOT what is ultimately most important to them long term.
+
+goal priority may change based on the npc's situation
+
+if the pcs know one of an npc's goals, they can affect the hierarchy by dealing hits
+
+maybe... npc moves are stronger the more goals they are acting on
+
+Ranking goals
+- goals have a numeric priority value which can shift up or down?
+	- stronger npcs have "higher priority" goals? goals with more hit points? kinda weird
+- OR goals are only ranked relative to each other
+	- stronger npcs could have higher... will, or conviction or wtv which diminishes the effect of hits? blocks hits?
+
+Discovering a goal
+- when an NPC uses a move, it reveals whichever goal it is acting on
+- when blindly dealing hits to an npc, a relevant goal may be revealed
+  - OR the player may ask a question about the npc's goals?
+- use special abilities to reveal goals
+
+Shifting a goal
+- when you deal a hit to a goal you know about, you can move it up or down in priority
+
+Destroying a goal
+- deal X hits to it in a single move?
+- goals have hp based on their *long term* priority
+
+Creating a goal
+- party makes a move as a group to create a major change in the environment. this temporary goal will incapacitate the npc for the time being
+	- collapse a bridge onto a monster. monster gains the goal "get out from under this bridge" at max priority
+- pc uses a special ability to create a weakness. this new goal can now be shifted up by subsequent moves.
+	- seduce the dragon. dragon gains the goal "find someone who makes life make sense" at low priority
+	- i cast sleep. archmage gains the goal "take a refreshing nap" at low priority
+	- provoke. the duelist gains the goal "crush this impudent whelp" at low priority
+- improvise stuff?
+	- subject the prisoner to torture. they gain the goal "make the pain stop" at low priority
+
+Goal armor
+- many goals have armor which protects them from certain kinds of move
+- you won't convince someone to trust you by beating them
+- a goal inflicted by magic might need to be broken by magic
+
+Blind Moves
+- a pc can make a move against an npc without targeting a specific goal
+- they take a 1d penalty
+- the gm decides which goal is targeted, or creates a new goal
+
+
+
+
+
+
+Examples:
+
+spy
+ start a war between Elridge and Tiriel
+ don't get caught
+ steal state secrets
+
+bandits
+ extract wealth from city folk
+ command respect and fear from the city folk
+ get back to camp alive
+
+bouncer
+ don't let anyone who isn't on the guest list into the club
+ make rent this month
+ don't get beaten to a pulp on the sidewalk
+
+zombie
+ obey my master [spell armor]
+ devour brains
+
+nesting monster
+ collect bones to decorate my lair and thereby attract a mate
+ defend my lair
+ survive and reproduce
+
+sleepy monster
+ get some much-needed rest
+ find out what that infernal racket is about
+ protect my hoard from pilfering adventurers
+
+gelatinous cube
+ avoid bright light (hidden)
+ eat adventurers
+ avoid pain
+
+pirates
+ convince the landlubbers to surrender their booty
+ enforce our fearsome reputation
+ maintain a cost-effective lifestyle
+
+lowly minion
+ don't get turned into dust by my arcane master
+ don't get chopped to bits by adventurers
+ rectify my moral uncertanties
+

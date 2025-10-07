@@ -1,0 +1,82 @@
+""tree game"" is a system for giving npcs complex priorities and motives under a simple framework. it gives player characters (pcs) opportunities to uncover what makes npcs tick, and exploit their unique desires, insecurities, and ambitions.
+
+tree game is about interacting with other people.
+
+it uses a collection of skill trees to empower pcs. this tamps down on the overwhelming buffet of choices during character creation, but allows a greater depth of customization than classed systems.
+
+
+=+=+=+=+=+=+=+=+=
+ \ | |^\ /^\ (^\
+ |\| |_/ |    \
+ | \ |   \_/ \_)
+=+=+=+=+=+=+=+=+=
+
+non player characters are the fundamental challenge presented by tree game. while other games might pour their resources into elaborate battlemaps, loot tables
+
+
+an npc need not necessarily be an individal person. an organization or community with shared motives might be considered one (very powerful) npc
+
+MOTIVES
+=======
+
+motives are the core mechanic tree game is built around. each npc has a list
+
+EMOTIONS
+========
+
+emotions are resources accrued by npcs when the pcs move against them.
+the GM may spend emotions to resist hits against specific approaches, or to boost certain npc moves.
+
+there are three emotions:
+ Anger	indignation, jealousy, spite.	evoked by Fool, spent to resist Fraternize (or boost offensive moves)
+ Joy	trust, resolve, determination.	evoked by Fraternize, spent to resist Force (or boost friendly moves)
+ Fear	doubt, mistrust, anxiety.	evoked by Force, spent to resist Fool (or boost defensive moves)
+
+generally, in the trees:
+ lots of Fool skills exploit Anger
+ lots of Fraternize skills exploit Joy
+ lots of Force skills exploit Fear
+but there are exceptions to this.
+
+NPC TRAITS
+==========
+
+traits are unique abilities which allow npcs to break the rules. they are hidden until the GM uses them
+
+- traumatized people-pleaser can spend Fear to appease/manipulate the pcs
+- nesting monster can spend Fear to protect its young
+- brooding weakling can spend Anger
+
+LEVERAGE
+========
+npcs can have "leverage" against other characters. leverage is a number between 0 and 4 which represents how much power the npc holds over that person.
+
+1 leverage - the npc is aware of the character.
+2 leverage - the npc has a distinct edge over the character- perhaps a superior vantage point, the admiration of the local populace, or a sensitive secret.
+3 leverage - the npc controls something the character holds dear- their hopes, dreams, loved ones, or physical health.
+4 leverage - the npc could kill the character effortlessly.
+
+an increase in leverage can be a conseqence for a failed roll, a result of choices made in the fiction, or a buff from an npc move.
+
+some npcs are more powerful than others. an immortal archmage might gain 4 leverage against everyone just by walking into the room, while a sickly office clerk with a broadsword doesn't even reach 2 leverage over the average unarmed pc.
+
+many npc moves might have leverage requirements.
+
+
+[compare leverage to the position mechanic in Blades in the Dark. it indicates what is at stake.]
+
+NPC MOVES
+=========
+
+after an npc is moved against, it's their turn!
+
+npcs have a list of moves.
+
+all npcs have the following moves:
+- fight
+- flee
+- 
+
+
+
+

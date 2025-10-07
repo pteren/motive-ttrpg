@@ -1,0 +1,29 @@
+ideas
+=====
+
+leverage: similar to blades' position. number representing how much power an npc has over the party
+
+
+disarming smile: spend a fraternize hit to dispel Fear
+
+
+
+
+todo
+====
+
+
+[ ] how npcs defend against moves
+maybe they have a short list of approaches they are resistant or vulnerable to
+
+
+[ ] helping?
+
+playtest 00:
+[ ] rules for pc moves
+[ ] rules for npc moves
+
+[ ] smol trees OR precon characters
+[ ] situation with some interesting npcs in it
+[ ] goals for the npcs
+[ ] abilities + moves for the npcs
