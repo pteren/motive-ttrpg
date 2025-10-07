@@ -24,3 +24,5 @@ Approach Tree -
  +1 die when you try to build someone up, understand them, or connect with them.
  success: npc gains joy
  consequence: none
+
+a
