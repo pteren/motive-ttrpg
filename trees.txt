@@ -24,3 +24,21 @@ Approach Tree -
  +1 die when you try to build someone up, understand them, or connect with them.
  success: npc gains joy
  consequence: none
+	[Flirt] 
+	+1 die if you pursue a romantic interest
+	success: you gain (trust/leverage??)
+	[Encourage]
+	+1 die when you target a goal and support it, with their best interest in mind
+	success: that goal moves up in priority
+	consequence: if they get hurt, they may gain anger
+	[Advise]
+	+1 die when you give someone advice which you believe is in their best interest
+	success: they gain a goal. 
+	consequence: if it goes badly, they may get mad at you
+	[Comfort]
+	+1 die when you spend a hit to remove fear
+	success: you remove their fear
+	[Connect]
+	+1 die when you try to understand and relate to an NPC
+	
+	
