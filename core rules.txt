@@ -5,6 +5,33 @@ tree game is about interacting with other people.
 it uses a collection of skill trees to empower pcs. this tamps down on the overwhelming buffet of choices during character creation, but allows a greater depth of customization than classed systems.
 
 
+
+=+=+=+=+=+=+=
+ |^\ /^\ (^\
+ |_/ |    \
+ |   \_/ \_)
+=+=+=+=+=+=+=
+
+things i want:
+- rolls should feel grounded, reliable.
+- ability to stack advantages to ensure success (like blades)
+- plot armor? OR 
+- some interesting resources
+
+making a move against an npc:
+
+- player declares which motive the pc is targeting.
+- if the player cannot name a motive, they may guess one. guessing a motive inflicts -1d and +BACKLASH.
+   - the roll is made
+   - if the GM decides that one of the hidden motives is close enough to they guess, they reveal it. the move now targets that motive.
+      - otherwise the roll targets no motive and hits are wasted (unless they can be spent on other abilities (?))
+- the roll is made
+
+- each 5-6 is a HIT. pc gets to shift the target motive in the declared direction. or perhaps destroy a motive if there are enough hits?
+- each 1-2 is BACKLASH. gm gets to shift a *different* motive in a direction of their choice, or spend 2 BACKLASH to create a new motive in the center of the hierarchy.
+
+- initiative passes to the target of the previous move
+
 =+=+=+=+=+=+=+=+=
  \ | |^\ /^\ (^\
  |\| |_/ |    \
@@ -70,13 +97,15 @@ NPC MOVES
 
 after an npc is moved against, it's their turn!
 
-npcs have a list of moves.
+npcs have a list of custom moves.
 
-all npcs have the following moves:
-- fight
-- flee
-- 
-
-
+here are some things npc moves can do:
+- inflict conditions?
+- alter surroundings?
+- steal "time" from pcs?
+- gain leverage
+- deal hits to the goals of allies
+- deal hits to the goals of minions
+- manage emotions
 
 
