@@ -24,3 +24,45 @@ Approach Tree -
  +1 die when you try to build someone up, understand them, or connect with them.
  success: npc gains joy
  consequence: none
+
+
+PC Character Creation:
+
+Idea: PC's have +1D in one of these; Force, Fraternize, or Fool, and it should reflect the background of their character.
+Idea 2: PC's can have a bonus in an equivalent to XP in Force, Fraternize, or Fool, and it does not immediately effect the PC until they start doing and learning stuff. This XP trigger will help them get bonuses in this skill, in the future. This should also reflect their background.
+This is not necessarily immediately relevant. It can be decided later.
+Idea 3: PC's have goals, just like NPC's do, but their goals are part of larger, or more complicated goals. This is because you are seeing them first person. You don't see all of what is behind an NPC's goals, because no one can until they get closer.
+
+Maybe a player character can be loosely defined by their goals. So, a character sheet would include;
+Their skills. (Undecided. Could be related to their background.)
+Their background: Where they came from, their story (brief? or not?), any connections they may have.
+Their long term goals: What they want in the end. Ultimate long term goal is part of the long term goals, but the most important.
+Survival goals could be implied, but they could also vary based on situation.
+Short term goals could be established at the beginning of every situation. The GM would ask the players; "What do you want out of this interaction?/What do you want to accomplish in this situation?" These can be simply short term situational goals, or they could be fragments of long term goals.
+
+Character:
+
+Name: Veren Edarion
+Situation (decided by GM): They are in a village of people with different goals, who are experiencing a blight with their crops.
+Background: Veren is a refugee from a different village, where the lifestyle could be considered foreign by the people here. His village was hit by the blight first, and was abandoned. Seeing this tragedy in its beginning stages here, he is determined to find a cure, or a solution. 
+
+Goals: 
+
+Short term/immediate goals:
+1) (survival) Find a meal.
+2) (survival) Find a place to stay.
+3) (long term fragment) Make a friend.
+4) Find out what is going on.
+
+Long term goals:
+1) Find a cure for the blight, OR an alternate solution - perhaps livestock like swine, which could eat the sick plants, and still provide a source of food.
+2) Find a job or a sustainable way to live here and support himself.
+3) Get a net of friends, find someone willing to support him.
+
+Ultimate long term goal:
+1) Move back home, fix the place or make it livable, find and bring back the other scattered refugees from his original village.
+
+Survival - Which includes:
+1) Finding shelter. A lodge for the night.
+2) Finding a meal.
+3) Avoid getting into trouble.
