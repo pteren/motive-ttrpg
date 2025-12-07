@@ -9,7 +9,8 @@ Approach Tree -
 	[Betray]
 	 +1 die when taking advantage of someone who trusts you
 	 success: if the npc finds out you betrayed them, +1 BACKLASH
-
+    [???]
+	 until the deception is discovered, npc gains joy. if they still have this joy when the deception is discovered it becomes anger.
 
 [Force]
  +1 die when you try to bend someone until they break.
@@ -34,7 +35,7 @@ Approach Tree -
 	[Advise]
 	+1 die when you give someone advice which you believe is in their best interest
 	success: they gain a goal. 
-	consequence: if it goes badly, they may get mad at you
+	consequence: if it goes badly, they may gain anger regardless of your involvement.
 	[Comfort]
 	+1 die when you spend a hit to remove fear
 	success: you remove their fear
