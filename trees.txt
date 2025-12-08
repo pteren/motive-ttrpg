@@ -15,19 +15,22 @@ Approach Tree -
 [Force]
  +1 die when you try to bend someone until they break.
  success: npc gains fear
- consequence: npc is boosted on next violent move against you (?)
+ failure: npc gains anger instead
 	[Threaten]
 	 +1 die when you make a threat.
-	success: npc gains an additional fear
-	
+	 success: npc gains an additional fear
+	[Hurt]
+	 +1 die when you enact physical violence against someone
+	 consequence: npc gains anger
 	 
 [Fraternize]
  +1 die when you try to build someone up, understand them, or connect with them.
  success: npc gains joy
  consequence: none
 	[Flirt] 
-	+1 die if you pursue a romantic interest
-	success: you gain (trust/leverage??)
+	 +1 die if you pursue a romantic interest
+	 success: you gain (trust/leverage??)
+	 conseqence: npc has 2 Leverage against you.
 	[Encourage]
 	+1 die when you target a goal and support it, with their best interest in mind
 	success: that goal moves up in priority
