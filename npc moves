@@ -1,0 +1,26 @@
+Pressure
+ costs 1 Anger
+ take an action which results in 1 Leverage gain against target.
+
+Fight
+ rqr 2 Leverage
+ target pc. incur a cumulative -1 penalty to their Force moves.
+
+Suspect
+ target pc. incur a cumulative -1 penalty to their Fool moves.
+
+Cower
+ costs 1 Fear
+ Force moves against you
+ pass the turn to the gm.
+
+Flee
+ costs 2 Fear
+ escape unscathed. leave the encounter. pass the turn to the pcs.
+
+Argue
+ rqr 2 Leverage?
+ target pc. incur a cumulative -1 penalty to their Reason moves.
+
+Flirt
+ target pc who just flirted with you. incur a cumulative -1 penalty to their Flirt moves. you have Leverage against that pc equal to the total penalty. 
