@@ -32,17 +32,20 @@ Approach Tree -
 	 success: you gain (trust/leverage??)
 	 conseqence: npc has 2 Leverage against you.
 	[Encourage]
-	+1 die when you target a goal and support it, with their best interest in mind
-	success: that goal moves up in priority
-	consequence: if they get hurt, they may gain anger
+	 +2 dice when you target a goal and support it, with their best interest in mind
+	 consequence: if they get hurt, they may gain anger
 	[Advise]
-	+1 die when you give someone advice which you believe is in their best interest
-	success: they gain a goal. 
-	consequence: if it goes badly, they may gain anger regardless of your involvement.
+	 +1 die when you give someone genuine advice which you believe is in their best interest
+	 success: they gain a motive. 
+	 consequence: if it goes badly, they may gain anger regardless of your involvement.
 	[Comfort]
-	+1 die when you spend a hit to remove fear
-	success: you remove their fear
+	 +1 die when you put someone at ease
+	 success: npc loses 1 fear.
 	[Connect]
-	+1 die when you try to understand and relate to an NPC
-	
+	 +1 die when you try to understand and relate to an NPC
+		[Empathize]
+		 +1 die if you can relate to the npc thru a shared experience you've had. doesn't have to be existing canon!
+		['Insight']
+		 Spend an extra hit on a Connect to reveal a Mask concealing the targeted motive.
+		 if a Mask is revealed this way, the npc also learns something about you.
 	
