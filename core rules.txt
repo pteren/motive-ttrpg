@@ -29,7 +29,7 @@ making a move against an npc:
 
 whenever the roll is made:
 - each 5-6 is a HIT. pc gets to shift the target motive in the declared direction. or perhaps destroy a motive if there are enough hits?
-- each 1-2 is BACKLASH. gm gets to shift a *different* motive in a direction of their choice, or spend 2 BACKLASH to create a new motive in the center of the hierarchy.
+- each 1 is BACKLASH. gm gets to shift a *different* motive in a direction of their choice, create an unexpected emotion, or spend 2 BACKLASH to create a new motive in the center of the hierarchy.
 - then initiative passes to the target of the previous move. they have a chance to reply, respond, or react.
 
 =+=+=+=+=+=+=+=+=
